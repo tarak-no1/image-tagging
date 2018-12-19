@@ -1,0 +1,634 @@
+{
+    "attribute_dims": {},
+    "idx_to_names": {
+        "women_tops":{
+            "sleeve_type" : {
+                "0": "roll-up sleeves",
+                "1": "regular sleeve",
+                "2": "cap sleeve",
+                "3": "flared sleeve",
+                "4": "bishop sleeves",
+                "5": "butterfly sleeve",
+                "6": "puff sleeve",
+                "7": "slit sleeves",
+                "8": "cuffed sleeves",
+                "9": "raglan sleeves"
+            },
+            "pattern_type" : {
+                "0": "floral",
+                "1": "animal print",
+                "2": "zig zag/chevron",
+                "3": "typographic",
+                "4": "polka dots",
+                "5": "abstract",
+                "6": "geometrical print",
+                "7": "graphic print",
+                "8": "tribal",
+                "9": "tie and dye",
+                "10": "ethnic motifs"
+            },
+            "pattern" : {
+                "0" : "solid",
+                "1" : "printed",
+                "2" : "checked",
+                "3" : "striped",
+                "4" : "embellishments",
+                "5" : "colourblocked",
+                "6" : "self design",
+                "7" : "embroidered"
+            },
+            "sleeve" : {
+                "0" : "long sleeve",
+                "1" : "no sleeves",
+                "2" : "short sleeve",
+                "3" : "three-quarter sleeve"
+            },
+            "neck": {
+                "0" : "cold shoulder",
+                "1" : "off shoulder",
+                "2" : "one shoulder",
+                "3" : "round neck",
+                "4" : "strapless or tube",
+                "5" : "shirt collar",
+                "6" : "mandarin collar",
+                "7" : "tie-up neck",
+                "8" : "v-neck",
+                "9" : "shoulder straps",
+                "10": "high neck",
+                "11": "keyhole neck"
+            },
+            "tops_length": {
+                "0": "regular",
+                "1": "crop",
+                "2": "longline"
+            },
+            "professional_look":{
+                "0": "yes",
+                "1": "no"
+            }
+        },
+        "women_dresses":{
+            "sleeve_type" : {
+                "0": "roll-up sleeves",
+                "1": "regular sleeve",
+                "2": "cap sleeve",
+                "3": "flared sleeve",
+                "4": "bishop sleeves",
+                "5": "butterfly sleeve",
+                "6": "puff sleeve",
+                "7": "slit sleeves",
+                "8": "cuffed sleeves",
+                "9": "raglan sleeves"
+            },
+            "pattern_type" : {
+                "0": "floral",
+                "1": "animal print",
+                "2": "zig zag/chevron",
+                "3": "typographic",
+                "4": "polka dots",
+                "5": "abstract",
+                "6": "geometrical print",
+                "7": "graphic print",
+                "8": "tribal",
+                "9": "tie and dye",
+                "10": "ethnic motifs"
+            },
+            "pattern" : {
+                "0" : "solid",
+                "1" : "printed",
+                "2" : "checked",
+                "3" : "striped",
+                "4" : "embellishments",
+                "5" : "colourblocked",
+                "6" : "self design",
+                "7" : "embroidered"
+            },
+            "sleeve" : {
+                "0" : "long sleeve",
+                "1" : "no sleeves",
+                "2" : "short sleeve",
+                "3" : "three-quarter sleeve"
+            },
+            "neck": {
+                "0" : "cold shoulder",
+                "1" : "off shoulder",
+                "2" : "one shoulder",
+                "3" : "round neck",
+                "4" : "strapless or tube",
+                "5" : "shirt collar",
+                "6" : "mandarin collar",
+                "7" : "tie-up neck",
+                "8" : "v-neck",
+                "9" : "shoulder straps",
+                "10": "high neck",
+                "11": "keyhole neck"
+            },
+            "dress_length" : {
+                "0" : "midi",
+                "1" : "mini",
+                "2" : "maxi"
+            },
+            "professional_look":{
+                "0": "yes",
+                "1": "no"
+            }
+        },
+        "women_jumpsuits":{
+            "sleeve_type" : {
+                "0": "roll-up sleeves",
+                "1": "regular sleeve",
+                "2": "cap sleeve",
+                "3": "flared sleeve",
+                "4": "bishop sleeves",
+                "5": "butterfly sleeve",
+                "6": "puff sleeve",
+                "7": "slit sleeves",
+                "8": "cuffed sleeves",
+                "9": "raglan sleeves"
+            },
+            "pattern_type" : {
+                "0": "floral",
+                "1": "animal print",
+                "2": "zig zag/chevron",
+                "3": "typographic",
+                "4": "polka dots",
+                "5": "abstract",
+                "6": "geometrical print",
+                "7": "graphic print",
+                "8": "tribal",
+                "9": "tie and dye",
+                "10": "ethnic motifs"
+            },
+            "pattern" : {
+                "0" : "solid",
+                "1" : "printed",
+                "2" : "checked",
+                "3" : "striped",
+                "4" : "embellishments",
+                "5" : "colourblocked",
+                "6" : "self design",
+                "7" : "embroidered"
+            },
+            "sleeve" : {
+                "0" : "long sleeve",
+                "1" : "no sleeves",
+                "2" : "short sleeve",
+                "3" : "three-quarter sleeve"
+            },
+            "neck": {
+                "0" : "cold shoulder",
+                "1" : "off shoulder",
+                "2" : "one shoulder",
+                "3" : "round neck",
+                "4" : "strapless or tube",
+                "5" : "shirt collar",
+                "6" : "mandarin collar",
+                "7" : "tie-up neck",
+                "8" : "v-neck",
+                "9" : "shoulder straps",
+                "10": "high neck",
+                "11": "keyhole neck"
+            }
+        },
+        "women_jeans":{
+            "jeans_length":{
+                "0":"regular",
+                "1":"cropped length"
+            },
+            "denim_fade" : {
+                "0" : "heavy fade",
+                "1" : "light fade",
+                "2" : "no fade"
+            },
+            "distress_or_torn" : {
+                "0" : "slash knee",
+                "1" : "high distress",
+                "2" : "clean look",
+                "3" : "mildly distressed"
+            },
+            "denim_shade" : {
+                "0" : "dark",
+                "1" : "light",
+                "2" : "coloured",
+                "3" : "medium"
+            },
+            "fit" : {
+                "0" : "boyfriend fit",
+                "1" : "flared",
+                "2" : "straight",
+                "3" : "skinny fit",
+                "4" : "slim fit"
+            }
+        },
+        "women_tshirts":{
+            "sleeve_type" : {
+                "0": "roll-up sleeves",
+                "1": "regular sleeve",
+                "2": "cap sleeve",
+                "3": "flared sleeve",
+                "4": "bishop sleeves",
+                "5": "butterfly sleeve",
+                "6": "puff sleeve",
+                "7": "slit sleeves",
+                "8": "cuffed sleeves",
+                "9": "raglan sleeves"
+            },
+            "pattern_type" : {
+                "0": "floral",
+                "1": "animal print",
+                "2": "zig zag/chevron",
+                "3": "typographic",
+                "4": "polka dots",
+                "5": "abstract",
+                "6": "geometrical print",
+                "7": "graphic print",
+                "8": "tribal",
+                "9": "tie and dye",
+                "10": "ethnic motifs"
+            },
+            "pattern" : {
+                "0" : "solid",
+                "1" : "printed",
+                "2" : "checked",
+                "3" : "striped",
+                "4" : "embellishments",
+                "5" : "colourblocked",
+                "6" : "self design",
+                "7" : "embroidered"
+            },
+            "sleeve" : {
+                "0" : "long sleeve",
+                "1" : "no sleeves",
+                "2" : "short sleeve",
+                "3" : "three-quarter sleeve"
+            },
+            "neck":{
+                "0" : "round neck",
+                "1" : "shirt collar",
+                "2" : "henley neck",
+                "3" : "mandarin collar",
+                "4" : "high neck",
+                "5" : "v-neck"
+            },
+            "print_coverage" : {
+                "0" : "chest",
+                "1" : "placement",
+                "2" : "all over print"
+            },
+            "sub_category" : {
+                "0": "graphic",
+                "1": "biker",
+                "2": "striped",
+                "3": "colourblocked",
+                "4": "tie and dye",
+                "5": "solid",
+                "6": "typography",
+                "7": "geometric",
+                "8": "camouflage",
+                "9": "abstract",
+                "10": "tribal",
+                "11": "people and places",
+                "12": "conversational",
+                "13": "sports",
+                "14": "floral",
+                "15": "humour and comic",
+                "16": "music",
+                "17": "checked",
+                "18": "self design",
+                "19": "varsity",
+                "20": "sports and team jersey",
+                "21": "polka dots",
+                "22": "superhero"
+            }
+        },
+        "women_shirts":{
+            "sleeve_type" : {
+                "0": "roll-up sleeves",
+                "1": "regular sleeve",
+                "2": "cap sleeve",
+                "3": "flared sleeve",
+                "4": "bishop sleeves",
+                "5": "butterfly sleeve",
+                "6": "puff sleeve",
+                "7": "slit sleeves",
+                "8": "cuffed sleeves",
+                "9": "raglan sleeves"
+            },
+            "pattern_type" : {
+                "0": "floral",
+                "1": "animal print",
+                "2": "zig zag/chevron",
+                "3": "typographic",
+                "4": "polka dots",
+                "5": "abstract",
+                "6": "geometrical print",
+                "7": "graphic print",
+                "8": "tribal",
+                "9": "tie and dye",
+                "10": "ethnic motifs"
+            },
+            "pattern" : {
+                "0" : "solid",
+                "1" : "printed",
+                "2" : "checked",
+                "3" : "striped",
+                "4" : "embellishments",
+                "5" : "colourblocked",
+                "6" : "self design",
+                "7" : "embroidered"
+            },
+            "sleeve" : {
+                "0" : "long sleeve",
+                "1" : "no sleeves",
+                "2" : "short sleeve",
+                "3" : "three-quarter sleeve"
+            },
+            "shirts_collar":{
+                "0" : "collarless",
+                "1" : "mandarin collar",
+                "2" : "shirt collar"
+            }
+        },
+        "women_sweatshirts":{
+            "hood" : {
+                "0" : "non hooded",
+                "1" : "hooded"
+            },
+            "sweatshirts_type" : {
+                "0" : "cardigan",
+                "1" : "pull over",
+                "2" : "front open"
+            },
+            "pattern_type" : {
+                "0": "floral",
+                "1": "animal print",
+                "2": "zig zag/chevron",
+                "3": "typographic",
+                "4": "polka dots",
+                "5": "abstract",
+                "6": "geometrical print",
+                "7": "graphic print",
+                "8": "tribal",
+                "9": "tie and dye",
+                "10": "ethnic motifs"
+            },
+            "pattern" : {
+                "0" : "solid",
+                "1" : "printed",
+                "2" : "checked",
+                "3" : "striped",
+                "4" : "embellishments",
+                "5" : "colourblocked",
+                "6" : "self design",
+                "7" : "embroidered"
+            },
+            "sleeve" : {
+                "0" : "long sleeve",
+                "1" : "no sleeves",
+                "2" : "short sleeve",
+                "3" : "three-quarter sleeve"
+            },
+            "neck":{
+                "0" : "round neck",
+                "1" : "shirt collar",
+                "2" : "henley neck",
+                "3" : "mandarin collar",
+                "4" : "high neck",
+                "5" : "v-neck"
+            },
+            "closure" : {
+                "0" : "no closure",
+                "1" : "zip",
+                "2" : "button closure"
+            }
+        },
+        "women_jackets":{
+            "jacket_type":{
+                "0": "bolero jacket",
+                "1": "tailored jacket",
+                "2": "bomber",
+                "3": "biker jacket",
+                "4": "parka",
+                "5": "open front jacket",
+                "6": "sporty jacket"
+            },
+            "jacket_length":{
+                "0" : "regular",
+                "1" : "crop",
+                "2" : "longline"
+            },
+            "pattern":{
+                "0" : "solid",
+                "1" : "printed",
+                "2" : "checked",
+                "3" : "striped",
+                "4" : "embellishments",
+                "5" : "colourblocked",
+                "6" : "self design",
+                "7" : "embroidered"
+            },
+            "pattern_type":{
+                "0": "floral",
+                "1": "animal print",
+                "2": "zig zag/chevron",
+                "3": "typographic",
+                "4": "polka dots",
+                "5": "abstract",
+                "6": "geometrical print",
+                "7": "graphic print",
+                "8": "tribal",
+                "9": "tie and dye",
+                "10": "ethnic motifs"
+            },
+            "neck":{
+                "0" : "collarless",
+                "1" : "shirt collar",
+                "2" : "lapel collar",
+                "3" : "hooded",
+                "4" : "high neck",
+                "5" : "mandarin collar",
+                "6" : "shawl collar"
+            },
+            "sleeve":{
+                "0" : "long sleeve",
+                "1" : "no sleeves",
+                "2" : "short sleeve",
+                "3" : "three-quarter sleeve"
+            },
+            "sleeve_type":{
+                "0": "roll-up sleeves",
+                "1": "regular sleeve",
+                "2": "cap sleeve",
+                "3": "flared sleeve",
+                "4": "bishop sleeves",
+                "5": "butterfly sleeve",
+                "6": "puff sleeve",
+                "7": "slit sleeves",
+                "8": "cuffed sleeves",
+                "9": "raglan sleeves"
+            }
+        },
+        "women_shorts":{
+            "shorts_type":{
+                "0" : "denim shorts",
+                "1" : "cargo shorts",
+                "2" : "flippy shorts",
+                "3" : "hot pants",
+                "4" : "chino shorts",
+                "5" : "regular shorts",
+                "6" : "sports shorts"
+            },
+            "length":{
+                "0" : "above knee",
+                "1" : "knee length"
+            }
+        },
+        "women_skirts":{
+            "length":{
+                "0" : "mini",
+                "1" : "maxi",
+                "2" : "midi"
+            }
+        }
+    },
+    "idx_product_lines": {
+        "sweaters_length":["women_sweaters"],
+        "shorts_type":["women_shorts"],
+        "professional_look":["women_tops", "women_dresses"],
+        "sub_category":["women_tshirts"],
+        "closure":["women_sweatshirts"],
+        "hood":["women_sweatshirts"],
+        "sweatshirts_type":["women_sweatshirts"],
+        "shirts_collar" : ["women_shirts"],
+        "denim_shade": ["women_jeans"],
+        "distress_or_torn": ["women_jeans"],
+        "denim_fade": ["women_jeans"],
+        "fit": ["women_jeans"],
+        "jeans_length": ["women_jeans"],
+        "pattern": ["women_sweatshirts", "women_tops","women_dresses","women_shirts","women_tshirts","women_jackets", "women_shorts"],
+        "sleeve" : ["women_sweatshirts", "women_tops", "women_dresses","women_tshirts", "women_shirts", "women_jackets"],
+        "neck"   : ["women_sweatshirts", "women_tops", "women_dresses","women_tshirts", "women_jackets"],
+        "tops_length" : ["women_tops"],
+        "type" : ["women_tops"],
+        "dress_shape" : ["women_dresses"],
+        "dress_length" : ["women_dresses"],
+        "pattern_type" : ["women_sweatshirts","women_tops","women_dresses","women_shirts","women_tshirts","women_jackets"],
+        "jacket_length" : ["women_jackets"],
+        "jacket_type" : ["women_jackets"],
+        "sleeve_type" : ["women_tops", "women_dresses","women_kurta", "women_shirts", "women_jackets"],
+        "print_coverage":["women_tshirts"],
+        "length":["women_shorts", "women_skirts"]
+    },
+    "weights":{
+        "professional_look":{
+            "women_tops":"tops_professional_look",
+            "women_dresses":"dress_professional_look"
+        },
+        "shorts_type":{
+            "women_shorts":"shorts_type"
+        },
+        "length":{
+            "women_shorts": "shorts_length",
+            "women_skirts": "skirts_length"
+        },
+        "sub_category":{
+            "women_tshirts":"sub_category"
+        },
+        "closure":{
+            "women_sweatshirts":"closure"
+        },
+        "hood":{
+            "women_sweatshirts":"hood"
+        },
+        "sweatshirts_type":{
+            "women_sweatshirts":"sweatshirts_type"
+        },
+        "shirts_collar":{
+            "women_shirts":"shirts_collar"
+        },
+        "print_coverage":{
+            "women_tshirts":"print_coverage"
+        },
+        "denim_shade":{
+            "women_jeans":"denim_shade"
+        },
+        "distress_or_torn":{
+            "women_jeans":"distress_or_torn"
+        },
+        "denim_fade":{
+            "women_jeans":"denim_fade"
+        },
+        "fit":{
+            "women_jeans":"jeans_fit"
+        },
+        "jeans_length":{
+            "women_jeans":"jeans_length"
+        },
+        "pattern": {
+            "women_tops":"pattern",
+            "women_dresses":"pattern",
+            "women_jumpsuits":"pattern",
+            "women_shirts":"pattern",
+            "women_tshirts":"pattern",
+            "women_jackets":"pattern",
+            "women_shorts":"pattern",
+            "women_sweatshirts":"pattern"
+        },
+        "sleeve" : {
+            "women_tops":"sleeve",
+            "women_dresses":"sleeve",
+            "women_jumpsuits":"sleeve",
+            "women_tshirts":"sleeve",
+            "women_shirts":"sleeve",
+            "women_sweatshirts":"sleeve",
+            "women_jackets":"sleeve"
+        },
+        "neck" : {
+            "women_tops":"neck_tops",
+            "women_dresses":"neck_dresses",
+            "women_jumpsuits":"neck_dresses",
+            "women_tshirts":"neck_tshirts",
+            "women_sweaters":"neck_tshirts",
+            "women_sweatshirts":"neck_tshirts",
+            "women_jackets" : "jacket_neck"
+        },
+        "tops_length" : {
+            "women_tops":"tops_length"
+        },
+        "type" : {
+            "women_tops":"type"
+        },
+        "dress_shape" : {
+            "women_dresses":"dress_shape",
+            "women_jumpsuits":"dress_shape"
+        },
+        "dress_length" : {
+            "women_dresses":"dress_length"
+        },
+        "pattern_type" : {
+            "women_tops":"pattern_type",
+            "women_dresses":"pattern_type",
+            "women_jumpsuits":"pattern_type",
+            "women_shirts":"pattern_type",
+            "women_tshirts":"pattern_type",
+            "women_jackets":"pattern_type",
+            "women_sweatshirts":"pattern_type"
+        },
+        "jacket_length" : {
+            "women_jackets":"jacket_length"
+        },
+        "jacket_type" : {
+            "women_jackets":"jacket_type"
+        },
+        "sleeve_type" : {
+            "women_tops":"sleeve_type",
+            "women_dresses":"sleeve_type",
+            "women_jumpsuits":"sleeve_type",
+            "women_kurta":"sleeve_type",
+            "women_tshirts":"sleeve_type",
+            "women_shirts" : "sleeve_type",
+            "women_sweatshirts" : "sleeve_type",
+            "women_jackets" : "sleeve_type"
+        }
+    }
+}

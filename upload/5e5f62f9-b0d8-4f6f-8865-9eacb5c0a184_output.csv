@@ -1,0 +1,103 @@
+,company_name,product_line,image_link,colour,hexa_code,sleeve_type_value,sleeve_type_confidance,pattern_type_value,pattern_type_confidance,pattern_value,pattern_confidance,sleeve_value,sleeve_confidance,neck_value,neck_confidance,tops_length_value,tops_length_confidance,professional_look_value,professional_look_confidance
+0,ebay,women_tops,https://i.ebayimg.com/images/g/3TIAAOSwXeJYMBX7/s-l600.jpg,,,bishop sleeves,0.6975,tie and dye,0.606673,printed,0.99999,long sleeve,0.990244,,0.377398,regular,0.500869,no,0.974751
+1,ebay,women_tops,https://i.ebayimg.com/images/g/2jIAAOSwlndZIqT4/s-l600.jpg,,,no sleeves,0.981702,solid,0.984633,solid,0.997489,no sleeves,0.999661,shoulder straps,0.940088,regular,0.891597,no,0.97361
+2,ebay,women_tops,https://i.ebayimg.com/images/g/YiUAAOSw1BFaRi7Q/s-l600.jpg,,,,0.485158,solid,0.220911,solid,0.677497,long sleeve,0.989672,,0.549134,regular,0.940197,no,0.589401
+3,ebay,women_tops,https://i.ebayimg.com/images/g/d9oAAOSw8lpZIqT1/s-l600.jpg,,,bishop sleeves,0.990933,abstract,0.461365,printed,0.986679,long sleeve,0.999285,,0.433254,longline,0.839891,no,0.970398
+4,ebay,women_tops,https://i.ebayimg.com/images/g/P3kAAOSwhvFZIqUB/s-l600.jpg,,,no sleeves,0.992307,floral,0.864992,printed,0.97642,no sleeves,0.999788,,0.266508,regular,0.901577,no,0.889891
+5,ebay,women_tops,https://i.ebayimg.com/images/g/02YAAOSwiDFYMBX2/s-l600.jpg,,,roll-up sleeves,0.939688,abstract,0.776375,printed,0.451097,short sleeve,0.999967,,0.433637,regular,0.473341,no,0.660982
+6,ebay,women_tops,https://i.ebayimg.com/images/g/oMEAAOSw0hlZIqVD/s-l600.jpg,,,no sleeves,0.973791,solid,0.474479,solid,0.997262,no sleeves,0.999805,shoulder straps,0.885195,regular,0.916328,no,0.970015
+7,ebay,women_tops,https://i.ebayimg.com/images/g/eA4AAOSw44BYMBXd/s-l600.jpg,,,no sleeves,0.998793,,0.316612,printed,0.532582,no sleeves,0.997315,,0.329583,longline,0.863377,no,0.807815
+8,ebay,women_tops,https://i.ebayimg.com/images/g/sOEAAOSwxixaRi7R/s-l600.jpg,,,roll-up sleeves,0.958253,ethnic motifs,0.846748,printed,0.921365,long sleeve,0.983731,,0.267538,regular,0.872028,no,0.68353
+9,ebay,women_tops,https://i.ebayimg.com/images/g/0FkAAOSwKytZIqRj/s-l600.jpg,,,no sleeves,0.998816,floral,0.989388,printed,0.985995,no sleeves,0.988157,round neck,0.436029,regular,0.705011,no,0.945513
+10,ebay,women_tops,https://i.ebayimg.com/images/g/lAAAAOSwGwlaRi7Z/s-l600.jpg,,,roll-up sleeves,0.534262,tie and dye,0.721356,printed,0.897391,short sleeve,0.995072,round neck,0.499948,regular,0.615702,no,0.713662
+11,ebay,women_tops,https://i.ebayimg.com/images/g/m3YAAOSwal5YMBXV/s-l600.jpg,,,cuffed sleeves,0.983358,checked,0.474002,checked,0.837721,long sleeve,0.993925,shirt collar,0.691243,regular,0.643421,no,0.7054
+12,ebay,women_tops,https://i.ebayimg.com/images/g/sZIAAOSw4GVYMCbr/s-l600.jpg,,,puff sleeve,0.503132,solid,0.448714,solid,0.982148,short sleeve,0.997844,,0.226104,longline,0.908348,no,0.5203
+13,ebay,women_tops,https://i.ebayimg.com/images/g/6-oAAOSw6VRaRiVU/s-l600.jpg,,,,0.425809,floral,0.986591,printed,0.98529,three-quarter sleeve,0.635344,,0.591098,longline,0.815449,no,0.81148
+14,ebay,women_tops,https://i.ebayimg.com/images/g/fL8AAOSw-3FZIqTs/s-l600.jpg,,,bishop sleeves,0.583236,animal print,0.770888,printed,0.806794,long sleeve,0.989752,,0.395824,longline,0.864842,no,0.904941
+15,ebay,women_tops,https://i.ebayimg.com/images/g/i50AAOSwq4VaRi7V/s-l600.jpg,,,no sleeves,0.818309,self design,0.411643,self design,0.600062,no sleeves,0.999489,,0.589252,regular,0.851754,no,0.92353
+16,ebay,women_tops,https://i.ebayimg.com/images/g/LIcAAOSwVtZaRi7m/s-l600.jpg,,,cuffed sleeves,0.814675,checked,0.955001,checked,0.998419,long sleeve,0.988307,,0.48449,longline,0.95235,no,0.757085
+17,ebay,women_tops,https://i.ebayimg.com/images/g/Ib8AAOSw3ZtaRi7U/s-l600.jpg,,,no sleeves,0.959744,embellishments,0.57572,embellishments,0.970171,no sleeves,0.996951,shoulder straps,0.736638,regular,0.560798,no,0.932215
+18,ebay,women_tops,https://i.ebayimg.com/images/g/w7gAAOSwQS1aRi7U/s-l600.jpg,,,no sleeves,0.403538,solid,0.419839,solid,0.913113,no sleeves,0.999991,,0.490692,regular,0.598612,no,0.917669
+19,ebay,women_tops,https://i.ebayimg.com/images/g/~NkAAOSwi7RZIqTv/s-l600.jpg,,,no sleeves,0.995798,floral,0.979782,printed,0.932924,no sleeves,0.999908,,0.191063,regular,0.779292,no,0.904576
+20,ebay,women_tops,https://i.ebayimg.com/images/g/-hIAAOSwfpVZIqUY/s-l600.jpg,,,bishop sleeves,0.926373,,0.547201,printed,0.764475,long sleeve,0.995808,,0.387741,regular,0.584473,no,0.874079
+21,ebay,women_tops,https://i.ebayimg.com/images/g/iDAAAOSwEZdaRi7X/s-l600.jpg,,,roll-up sleeves,0.955631,solid,0.418295,solid,0.885566,three-quarter sleeve,0.957805,v-neck,0.501205,regular,0.79617,no,0.761026
+22,ebay,women_tops,https://i.ebayimg.com/images/g/OU4AAOSwz~paRiVK/s-l600.jpg,,,,0.280534,floral,0.974071,printed,0.675061,short sleeve,0.747824,,0.409735,regular,0.756082,no,0.86691
+23,ebay,women_tops,https://i.ebayimg.com/images/g/BooAAOSw1cNaRiVK/s-l600.jpg,,,no sleeves,0.988449,solid,0.234831,solid,0.836155,no sleeves,0.998141,,0.300497,longline,0.820821,no,0.770258
+24,ebay,women_tops,https://i.ebayimg.com/images/g/r5kAAOSwj85YMBXg/s-l600.jpg,,,bishop sleeves,0.536505,animal print,0.893387,printed,0.528534,short sleeve,0.979122,,0.319246,regular,0.689683,no,0.894998
+25,ebay,women_tops,https://i.ebayimg.com/images/g/MmEAAOSwCJxaRiVT/s-l600.jpg,,,cap sleeve,0.561597,floral,0.999562,printed,0.977528,three-quarter sleeve,0.517526,,0.367685,longline,0.84188,no,0.917764
+26,ebay,women_tops,https://i.ebayimg.com/images/g/QUkAAOSwux5YMBXY/s-l600.jpg,,,no sleeves,0.999436,solid,0.673052,solid,0.701284,no sleeves,0.999801,high neck,0.870185,regular,0.743631,no,0.804525
+27,ebay,women_tops,https://i.ebayimg.com/images/g/TUkAAOSwq1JZIqT0/s-l600.jpg,,,no sleeves,0.989753,solid,0.917247,solid,0.994593,no sleeves,0.99955,shoulder straps,0.825109,regular,0.896261,no,0.971823
+28,ebay,women_tops,https://i.ebayimg.com/images/g/-AsAAOSw-K9ZIqTu/s-l600.jpg,,,cuffed sleeves,0.985144,solid,0.843478,solid,0.969155,long sleeve,0.994781,shirt collar,0.749246,regular,0.701655,no,0.533567
+29,ebay,women_tops,https://i.ebayimg.com/images/g/s5QAAOSwiONYMCbm/s-l600.jpg,,,cap sleeve,0.96249,solid,0.323277,solid,0.832837,short sleeve,0.990141,,0.209226,longline,0.921829,no,0.742542
+30,ebay,women_tops,https://i.ebayimg.com/images/g/lrAAAOSwB09YMBXb/s-l600.jpg,,,regular sleeve,0.534428,solid,0.431925,solid,0.994459,short sleeve,0.99999,shirt collar,0.667253,regular,0.68321,no,0.695604
+31,ebay,women_tops,https://i.ebayimg.com/images/g/SxkAAOSwcgNZIqTt/s-l600.jpg,,,cuffed sleeves,0.702004,checked,0.98717,checked,0.999552,long sleeve,0.995448,,0.377303,longline,0.821169,no,0.802392
+32,ebay,women_tops,https://i.ebayimg.com/images/g/cSAAAOSwo4pYMBXf/s-l600.jpg,,,,0.436596,polka dots,0.810562,printed,0.962657,short sleeve,0.999896,,0.446977,regular,0.884143,no,0.805505
+33,ebay,women_tops,https://i.ebayimg.com/images/g/p8sAAOSwiBJaRiVL/s-l600.jpg,,,roll-up sleeves,0.540347,floral,0.652912,printed,0.998937,short sleeve,0.614434,mandarin collar,0.703056,longline,0.98701,no,0.954266
+34,ebay,women_tops,https://i.ebayimg.com/images/g/k10AAOSwlY1ZIqUg/s-l600.jpg,,,bishop sleeves,0.543469,tie and dye,0.933116,printed,0.970068,short sleeve,0.98506,v-neck,0.526765,regular,0.516465,no,0.880543
+35,ebay,women_tops,https://i.ebayimg.com/images/g/yOkAAOSweZJaRi7V/s-l600.jpg,,,cap sleeve,0.909094,solid,0.366431,solid,0.80055,short sleeve,0.998903,,0.279343,regular,0.837729,no,0.787017
+36,ebay,women_tops,https://i.ebayimg.com/images/g/yXAAAOSwurZZIqVP/s-l600.jpg,,,,0.471831,,0.467705,printed,0.851322,long sleeve,0.997953,,0.308889,regular,0.502852,no,0.858423
+37,ebay,women_tops,https://i.ebayimg.com/images/g/Jr8AAOSw5cNYMBXV/s-l600.jpg,,,no sleeves,0.978071,animal print,0.999827,printed,0.942901,no sleeves,0.999761,high neck,0.591238,regular,0.809205,no,0.896702
+38,ebay,women_tops,https://i.ebayimg.com/images/g/nWMAAOSw0hlZIqTy/s-l600.jpg,,,bishop sleeves,0.529085,floral,0.984903,printed,0.996105,long sleeve,0.999873,,0.285627,regular,0.852112,no,0.850364
+39,ebay,women_tops,https://i.ebayimg.com/images/g/TRsAAOSwWv5aRi7j/s-l600.jpg,,,roll-up sleeves,0.675895,checked,0.506894,checked,0.998214,long sleeve,0.996507,,0.307446,regular,0.687922,no,0.700143
+40,ebay,women_tops,https://i.ebayimg.com/images/g/KcoAAOSwcUBYMBXY/s-l600.jpg,,,cap sleeve,0.671391,solid,0.887691,solid,0.993199,short sleeve,0.999545,round neck,0.818307,longline,0.928501,no,0.892337
+41,ebay,women_tops,https://i.ebayimg.com/images/g/T1MAAOSwPpZaRiVT/s-l600.jpg,,,,0.472223,solid,0.406307,solid,0.525649,short sleeve,0.67971,,0.271644,longline,0.772718,no,0.689764
+42,ebay,women_tops,https://i.ebayimg.com/images/g/IvIAAOSwo4pYMCcK/s-l600.jpg,,,cap sleeve,0.994826,,0.518857,printed,0.996587,short sleeve,0.999943,,0.430753,longline,0.954991,no,0.929812
+43,ebay,women_tops,https://i.ebayimg.com/images/g/EasAAOSwFb5aRi7T/s-l600.jpg,,,,0.440888,,0.500236,,0.420548,long sleeve,0.99905,,0.425386,regular,0.735882,no,0.734147
+44,ebay,women_tops,https://i.ebayimg.com/images/g/EdkAAOSw6VRaRi7R/s-l600.jpg,,,roll-up sleeves,0.855046,solid,0.658763,solid,0.984334,three-quarter sleeve,0.990428,round neck,0.505725,regular,0.87243,no,0.616226
+45,ebay,women_tops,https://i.ebayimg.com/images/g/f1kAAOSwB09YMCbp/s-l600.jpg,,,regular sleeve,0.742743,self design,0.817341,self design,0.993315,three-quarter sleeve,0.734205,,0.272834,regular,0.576733,no,0.796471
+46,ebay,women_tops,https://i.ebayimg.com/images/g/4T4AAOSw8UZaRi7R/s-l600.jpg,,,roll-up sleeves,0.974209,solid,0.435545,solid,0.961807,long sleeve,0.976662,,0.30384,regular,0.733301,no,0.515603
+47,ebay,women_tops,https://i.ebayimg.com/images/g/-FoAAOSw-K9ZIqTz/s-l600.jpg,,,,0.415204,solid,0.8539,solid,0.85911,long sleeve,0.961122,,0.247358,regular,0.855766,no,0.781358
+48,ebay,women_tops,https://i.ebayimg.com/images/g/nWsAAOSwal5YMBXf/s-l600.jpg,,,cuffed sleeves,0.958589,abstract,0.910791,printed,0.98204,long sleeve,0.988904,mandarin collar,0.666642,longline,0.967074,no,0.608293
+49,ebay,women_tops,https://i.ebayimg.com/images/g/sfQAAOSwjodaRiVY/s-l600.jpg,,,roll-up sleeves,0.80484,floral,0.946205,printed,0.706103,three-quarter sleeve,0.831747,,0.274337,longline,0.861446,no,0.861159
+50,ebay,women_tops,https://i.ebayimg.com/images/g/HEwAAOSwHMJYMBXV/s-l600.jpg,,,flared sleeve,0.987282,solid,0.288568,solid,0.918681,short sleeve,0.986302,,0.318575,regular,0.949579,no,0.77767
+51,ebay,women_tops,https://i.ebayimg.com/images/g/D5IAAOSwY~1aRi7V/s-l600.jpg,,,roll-up sleeves,0.749717,solid,0.266928,solid,0.856,long sleeve,0.999445,,0.248537,regular,0.453625,no,0.702389
+52,ebay,women_tops,https://i.ebayimg.com/images/g/2C0AAOSwtJZXXpUP/s-l600.jpg,,,no sleeves,0.851288,solid,0.234064,solid,0.97863,no sleeves,0.925286,round neck,0.516136,regular,0.702693,no,0.767987
+53,ebay,women_tops,https://i.ebayimg.com/images/g/2IEAAOSwXeJYMBXb/s-l600.jpg,,,no sleeves,0.990332,solid,0.628385,solid,0.926452,no sleeves,0.998832,round neck,0.563842,regular,0.85971,no,0.818503
+54,ebay,women_tops,https://i.ebayimg.com/images/g/Bp0AAOSwcUBYMCbz/s-l600.jpg,,,,0.407813,solid,0.274516,solid,0.738784,short sleeve,0.981502,,0.271621,longline,0.775102,no,0.780127
+55,ebay,women_tops,https://i.ebayimg.com/images/g/64YAAOSw0exaRi7P/s-l600.jpg,,,roll-up sleeves,0.545048,solid,0.590725,solid,0.79605,three-quarter sleeve,0.83751,,0.231837,regular,0.652783,no,0.666674
+56,ebay,women_tops,https://i.ebayimg.com/images/g/29EAAOSwjqVZIqTu/s-l600.jpg,,,no sleeves,0.999303,,0.251166,printed,0.977669,no sleeves,0.999969,,0.406147,regular,0.86893,no,0.899019
+57,ebay,women_tops,https://i.ebayimg.com/images/g/es4AAOSwaEhZIqTq/s-l600.jpg,,,,0.483516,solid,0.604633,solid,0.990819,long sleeve,0.997709,,0.648252,regular,0.751097,no,0.812581
+58,ebay,women_tops,https://i.ebayimg.com/images/g/aAkAAOSwPh5ZIqTg/s-l600.jpg,,,cuffed sleeves,0.978529,solid,0.854835,solid,0.998275,long sleeve,0.999719,shirt collar,0.880567,regular,0.530792,no,0.745926
+59,ebay,women_tops,https://i.ebayimg.com/images/g/~i0AAOSwGzhaRi7S/s-l600.jpg,,,,0.412083,solid,0.476736,solid,0.626097,long sleeve,0.998677,keyhole neck,0.716593,regular,0.889541,no,0.523605
+60,ebay,women_tops,https://i.ebayimg.com/images/g/tiEAAOSw42dZIqTn/s-l600.jpg,,,cap sleeve,0.983602,floral,0.951351,printed,0.999061,short sleeve,0.999953,,0.246311,longline,0.898175,no,0.880385
+61,ebay,women_tops,https://i.ebayimg.com/images/g/lHEAAOSwn-tZIqRm/s-l600.jpg,,,no sleeves,0.998387,solid,0.991437,solid,0.550013,no sleeves,0.999989,,0.311843,longline,0.914096,no,0.934626
+62,ebay,women_tops,https://i.ebayimg.com/images/g/5ZIAAOSwZlZaRi7V/s-l600.jpg,,,bishop sleeves,0.954147,solid,0.285324,solid,0.522346,long sleeve,0.842024,round neck,0.507754,regular,0.788539,no,0.741863
+63,ebay,women_tops,https://i.ebayimg.com/images/g/RaIAAOSwux5YMBXz/s-l600.jpg,,,cap sleeve,0.869732,floral,0.977184,printed,0.998112,short sleeve,0.999349,round neck,0.829691,regular,0.804398,no,0.954181
+64,ebay,women_tops,https://i.ebayimg.com/images/g/bWcAAOSwcLxYMBXX/s-l600.jpg,,,no sleeves,0.954188,solid,0.795022,solid,0.566083,no sleeves,0.999771,shoulder straps,0.647277,regular,0.804692,no,0.9041
+65,ebay,women_tops,https://i.ebayimg.com/images/g/P0wAAOSw63FaRi7V/s-l600.jpg,,,no sleeves,0.919393,solid,0.366901,solid,0.948053,no sleeves,0.999972,,0.50636,regular,0.843424,no,0.886832
+66,ebay,women_tops,https://i.ebayimg.com/images/g/YI8AAOSwnCFaRi7i/s-l600.jpg,,,roll-up sleeves,0.872324,checked,0.661436,checked,0.91026,long sleeve,0.996662,,0.371746,longline,0.947153,no,0.653255
+67,ebay,women_tops,https://i.ebayimg.com/images/g/KqkAAOSwsYpaRi7R/s-l600.jpg,,,,0.438407,checked,0.975472,checked,0.998495,long sleeve,0.986541,mandarin collar,0.809061,longline,0.950204,no,0.664377
+68,ebay,women_tops,https://i.ebayimg.com/images/g/XRAAAOSwdnZaRi7X/s-l600.jpg,,,no sleeves,0.714196,abstract,0.637345,printed,0.901173,no sleeves,0.999684,shoulder straps,0.843127,regular,0.799745,no,0.92474
+69,ebay,women_tops,https://i.ebayimg.com/images/g/oJ8AAOSwal5YMBX0/s-l600.jpg,,,,0.383867,floral,0.99516,printed,0.966465,long sleeve,0.898403,round neck,0.568189,regular,0.886801,no,0.969521
+70,ebay,women_tops,https://i.ebayimg.com/images/g/sOIAAOSwxixaRi7S/s-l600.jpg,,,cap sleeve,0.914216,solid,0.450608,solid,0.917162,short sleeve,0.993824,,0.285008,regular,0.81101,no,0.720745
+71,ebay,women_tops,https://i.ebayimg.com/images/g/RCMAAOSwzppaRi7U/s-l600.jpg,,,roll-up sleeves,0.960915,solid,0.69423,solid,0.828867,long sleeve,0.991498,,0.423378,regular,0.866045,no,0.72794
+72,ebay,women_tops,https://i.ebayimg.com/images/g/FoIAAOSwBjdaRi7X/s-l600.jpg,,,butterfly sleeve,0.556181,floral,0.746072,printed,0.429694,short sleeve,0.999662,round neck,0.810558,regular,0.754322,no,0.848214
+73,ebay,women_tops,https://i.ebayimg.com/images/g/6~YAAOSwaeRZIqTw/s-l600.jpg,,,cuffed sleeves,0.982835,checked,0.600008,checked,0.999877,long sleeve,0.978026,shirt collar,0.794886,regular,0.467647,no,0.774766
+74,ebay,women_tops,https://i.ebayimg.com/images/g/ZK8AAOSwonBaRiVK/s-l600.jpg,,,no sleeves,0.386992,abstract,0.865127,printed,0.998177,no sleeves,0.848993,shoulder straps,0.80888,regular,0.705388,no,0.957478
+75,ebay,women_tops,https://i.ebayimg.com/images/g/nEkAAOSwal5YMBXa/s-l600.jpg,,,no sleeves,0.948644,solid,0.369595,solid,0.421341,no sleeves,0.999844,shoulder straps,0.812249,regular,0.49715,no,0.985787
+76,ebay,women_tops,https://i.ebayimg.com/images/g/kXwAAOSwlY1ZIqTy/s-l600.jpg,,,cuffed sleeves,0.979562,solid,0.372538,solid,0.994184,long sleeve,0.998046,,0.294267,longline,0.765554,no,0.580822
+77,ebay,women_tops,https://i.ebayimg.com/images/g/P-wAAOSwlMFZIqTy/s-l600.jpg,,,butterfly sleeve,0.972316,ethnic motifs,0.554035,printed,0.999153,long sleeve,0.999911,,0.347222,regular,0.488266,no,0.925453
+78,ebay,women_tops,https://i.ebayimg.com/images/g/hwIAAOSwh1paRi7T/s-l600.jpg,,,no sleeves,0.923709,solid,0.588608,solid,0.989449,no sleeves,0.999488,,0.229593,regular,0.486912,no,0.866536
+79,ebay,women_tops,https://i.ebayimg.com/images/g/ytoAAOSw4GVYMBXZ/s-l600.jpg,,,no sleeves,0.988803,solid,0.780397,solid,0.469286,no sleeves,0.999622,shoulder straps,0.854747,regular,0.714732,no,0.941197
+80,ebay,women_tops,https://i.ebayimg.com/images/g/yYoAAOSwICpaRi7Q/s-l600.jpg,,,cap sleeve,0.909117,solid,0.671827,solid,0.503092,short sleeve,0.677142,,0.381198,regular,0.807796,no,0.713409
+81,ebay,women_tops,https://i.ebayimg.com/images/g/66cAAOSwQcJaRi7T/s-l600.jpg,,,roll-up sleeves,0.981288,solid,0.853631,solid,0.56553,three-quarter sleeve,0.695882,,0.210564,regular,0.714402,no,0.620725
+82,ebay,women_tops,https://i.ebayimg.com/images/g/HOsAAOSwHMJYMBXY/s-l600.jpg,,,regular sleeve,0.53294,solid,0.515589,solid,0.855458,long sleeve,0.999992,,0.592987,regular,0.483247,no,0.543945
+83,ebay,women_tops,https://i.ebayimg.com/images/g/EpEAAOSwb79aRi7V/s-l600.jpg,,,no sleeves,0.720752,solid,0.323253,solid,0.971135,no sleeves,0.99635,,0.412313,regular,0.612085,no,0.886508
+84,ebay,women_tops,https://i.ebayimg.com/images/g/HIIAAOSwk~ZaRi7P/s-l600.jpg,,,,0.370346,checked,0.998826,checked,0.999974,long sleeve,0.994002,,0.555978,longline,0.851702,no,0.520899
+85,ebay,women_tops,https://i.ebayimg.com/images/g/T5UAAOSwnw9aRi7W/s-l600.jpg,,,roll-up sleeves,0.635652,solid,0.653924,solid,0.82478,long sleeve,0.981237,,0.408503,regular,0.885136,no,0.754563
+86,ebay,women_tops,https://i.ebayimg.com/images/g/0JQAAOSwiDFYMBXj/s-l600.jpg,,,bishop sleeves,0.977161,graphic print,0.781352,printed,0.995717,three-quarter sleeve,0.564838,,0.218872,regular,0.679277,no,0.921635
+87,ebay,women_tops,https://i.ebayimg.com/images/g/CkgAAOSww5hZIqRd/s-l600.jpg,,,no sleeves,0.994981,self design,0.928055,self design,0.993882,no sleeves,0.988718,round neck,0.621819,longline,0.811895,no,0.872896
+88,ebay,women_tops,https://i.ebayimg.com/images/g/FWIAAOSwLMlaRi7X/s-l600.jpg,,,flared sleeve,0.73537,solid,0.424683,solid,0.989735,short sleeve,0.992953,,0.359703,regular,0.85126,no,0.687073
+89,ebay,women_tops,https://i.ebayimg.com/images/g/nFMAAOSwn-tZIqTw/s-l600.jpg,,,no sleeves,0.949254,solid,0.649035,solid,0.997528,no sleeves,0.99981,shoulder straps,0.918384,regular,0.936815,no,0.967326
+90,ebay,women_tops,https://i.ebayimg.com/images/g/oH0AAOSw4PxaRi7i/s-l600.jpg,,,cuffed sleeves,0.737004,checked,0.575643,checked,0.994251,long sleeve,0.970672,mandarin collar,0.738068,longline,0.917177,no,0.579183
+91,ebay,women_tops,https://i.ebayimg.com/images/g/nHQAAOSwn-tZIqTz/s-l600.jpg,,,cap sleeve,0.990185,ethnic motifs,0.963175,printed,0.992089,short sleeve,0.99998,,0.247621,regular,0.656188,no,0.885877
+92,ebay,women_tops,https://i.ebayimg.com/images/g/rXIAAOSwj85YMCcK/s-l600.jpg,,,cuffed sleeves,0.726465,solid,0.790967,solid,0.827409,long sleeve,0.997622,,0.339865,longline,0.807771,no,0.566846
+93,ebay,women_tops,https://i.ebayimg.com/images/g/rXQAAOSwj85YMBXV/s-l600.jpg,,,,0.445539,solid,0.822658,solid,0.769601,short sleeve,0.571752,v-neck,0.47587,regular,0.626952,no,0.818768
+94,ebay,women_tops,https://i.ebayimg.com/images/g/j08AAOSwB09YMBuJ/s-l600.jpg,,,butterfly sleeve,0.558013,floral,0.959794,printed,0.970187,three-quarter sleeve,0.915987,,0.500214,longline,0.973456,no,0.940878
+95,ebay,women_tops,https://i.ebayimg.com/images/g/8VwAAOSwImRYMBXc/s-l600.jpg,,,no sleeves,0.849954,striped,0.831367,striped,0.731196,no sleeves,0.996459,high neck,0.813565,regular,0.756167,no,0.715128
+96,ebay,women_tops,https://i.ebayimg.com/images/g/auIAAOSwm3paRi7O/s-l600.jpg,,,cap sleeve,0.796072,solid,0.532918,solid,0.918828,short sleeve,0.999447,round neck,0.571344,regular,0.660789,no,0.743428
+97,ebay,women_tops,https://i.ebayimg.com/images/g/Sy4AAOSwm3paRidl/s-l600.jpg,,,no sleeves,0.957321,solid,0.881805,solid,0.614729,no sleeves,0.99958,shoulder straps,0.70435,regular,0.670455,no,0.944808
+98,ebay,women_tops,https://i.ebayimg.com/images/g/lO8AAOSwuxFY2kBx/s-l600.jpg,,,no sleeves,0.996634,solid,0.773412,solid,0.496528,no sleeves,0.997159,,0.472887,regular,0.845968,no,0.925039
+99,ebay,women_tops,https://i.ebayimg.com/images/g/JKIAAOSwpzJaRi7m/s-l600.jpg,,,,0.432005,geometrical print,0.651019,printed,0.568229,long sleeve,0.996218,,0.466491,regular,0.621402,no,0.705473
+100,ebay,women_tops,https://i.ebayimg.com/images/g/z3YAAOSwiDFYMBXd/s-l600.jpg,,,cuffed sleeves,0.789549,solid,0.54026,solid,0.97787,long sleeve,0.984792,,0.57049,regular,0.672501,no,0.572054
+101,ebay,women_tops,,,,,,,,,,,,,,,,,

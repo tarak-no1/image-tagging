@@ -1,0 +1,27 @@
+{
+	"women_kurta" : "topwear",
+	"women_sweatshirts" : "topwear",
+	"women_tshirts" : "topwear",
+	"women_jackets" : "topwear",
+	"women_sweaters" : "topwear",
+	"women_blazers" : "topwear",
+	"women_tops" : "topwear",
+	"women_shirts" : "topwear",
+	"women_coats" : "topwear",
+	"women_shrugs" : "topwear",
+
+	"women_jeans":"bottomwear",
+	"women_skirts":"bottomwear",
+	"women_trousers":"bottomwear",
+	"women_shorts":"bottomwear",
+	"women_capris":"bottomwear",
+	"women_jeggings":"bottomwear",
+
+	"women_dresses":"fullwear",
+	"women_jumpsuits":"fullwear",
+
+	"women_casual_shoes" : "footwear",
+	"women_flats" : "footwear",
+	"women_heels" : "footwear",
+	"women_handbags" : "accessories"
+}

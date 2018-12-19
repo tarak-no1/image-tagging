@@ -1,0 +1,949 @@
+{
+  "general":
+  {
+    "women_dresses": {
+      "pattern": {
+        "solid": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "printed": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "checked": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "striped": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "embellishments": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "embroidered": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "colourblocked": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "self design": {
+          "probability_cut": 50,
+          "condition": ""
+        }
+      },
+      "pattern_type": {
+        "floral": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "animal print": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "zigzag/chevron": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "typographic": {
+          "probability_cut": 52,
+          "condition": ""
+        },
+        "polka dots": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "abstract": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "geometrical print": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "etnic motifs": {
+          "probability_cut": 46,
+          "condition": ""
+        },
+        "graphic print": {
+          "probability_cut": 44,
+          "condition": ""
+        },
+        "tribal": {
+          "probability_cut": 42,
+          "condition": ""
+        },
+        "tie and dye": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      }
+    },
+    "women_jumpsuits": {
+      "pattern": {
+        "solid": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "printed": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "checked": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "striped": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "embellishments": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "embroidered": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "colourblocked": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "self design": {
+          "probability_cut": 50,
+          "condition": ""
+        }
+      },
+      "pattern_type": {
+        "floral": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "animal print": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "zigzag/chevron": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "typographic": {
+          "probability_cut": 52,
+          "condition": ""
+        },
+        "polka dots": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "abstract": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "geometrical print": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "etnic motifs": {
+          "probability_cut": 46,
+          "condition": ""
+        },
+        "graphic print": {
+          "probability_cut": 44,
+          "condition": ""
+        },
+        "tribal": {
+          "probability_cut": 42,
+          "condition": ""
+        },
+        "tie and dye": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      }
+    },
+    "women_jackets": {
+      "jacket_length": {
+        "regular": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "crop": {
+          "probability_cut": 55,
+          "condition": "regular"
+        },
+        "longline": {
+          "probability_cut": 50,
+          "condition": "regular"
+        }
+      },
+      "jacket_type":{
+        "bolero jacket": {
+          "probability_cut": 70,
+          "condition" : ""
+        },
+        "tailored jacket": {
+          "probability_cut": 70,
+          "condition" : ""
+        },
+        "bomber": {
+          "probability_cut": 70,
+          "condition" : ""
+        },
+        "biker jacket": {
+          "probability_cut": 70,
+          "condition" : ""
+        },
+        "parka": {
+          "probability_cut": 70,
+          "condition" : ""
+        },
+        "open front jacket": {
+          "probability_cut": 70,
+          "condition" : ""
+        },
+        "sporty jacket": {
+          "probability_cut": 70,
+          "condition" : ""
+        }
+      },
+      "neck":{
+        "collarless": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "shirt collar": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "lapel collar": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "hooded": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "high neck": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "mandarin collar": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "shawl collar": {
+          "probability_cut": 50,
+          "condition": ""
+        }
+      },
+      "pattern": {
+        "solid": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "printed": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "checked": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "striped": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "embellishments": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "embroidered": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "colourblocked": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "self design": {
+          "probability_cut": 50,
+          "condition": ""
+        }
+      },
+      "pattern_type": {
+        "floral": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "animal print": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "zigzag/chevron": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "typographic": {
+          "probability_cut": 52,
+          "condition": ""
+        },
+        "polka dots": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "abstract": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "geometrical print": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "etnic motifs": {
+          "probability_cut": 46,
+          "condition": ""
+        },
+        "graphic print": {
+          "probability_cut": 44,
+          "condition": ""
+        },
+        "tribal": {
+          "probability_cut": 42,
+          "condition": ""
+        },
+        "tie and dye": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      }
+    },
+    "women_tops": {
+      "tops_length": {
+        "crop": {
+          "probability_cut": 80,
+          "condition": "regular"
+        },
+        "regular": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "longline": {
+          "probability_cut": 76,
+          "condition": "regular"
+        }
+      },
+      "sleeve": {
+        "any sleeve": {
+          "probability_cut": 60,
+          "condition": ""
+        },
+        "long sleeve": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      },
+      "pattern": {
+        "solid": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "printed": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "checked": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "striped": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "embellishments": {
+          "probability_cut": 90,
+          "condition": "printed"
+        },
+        "embroidered": {
+          "probability_cut": 90,
+          "condition": "printed"
+        },
+        "colourblocked": {
+          "probability_cut": 95,
+          "condition": "solid"
+        },
+        "self design": {
+          "probability_cut": 50,
+          "condition": ""
+        }
+      },
+      "neck": {
+        "cold shoulder": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "off shoulder": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "one shoulder": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "round neck": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "v-neck": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "keyhole neck": {
+          "probability_cut": 70,
+          "condition": ""
+        },
+        "high neck": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "shoulder straps": {
+          "probability_cut": 60,
+          "condition": ""
+        },
+        "tie-up neck": {
+          "probability_cut": 70,
+          "condition": ""
+        },
+        "mandarin collar": {
+          "probability_cut": 65,
+          "condition": ""
+        },
+        "shirt collar": {
+          "probability_cut": 65,
+          "condition": ""
+        },
+        "strapless or tube": {
+          "probability_cut": 58,
+          "condition": ""
+        }
+      }
+    },
+    "women_jeans": {
+      "jeans_length": {
+        "regular": {
+          "probability_cut": 35,
+          "condition": ""
+        },
+        "cropped length": {
+          "probability_cut": 50,
+          "condition": "regular"
+        }
+      },
+      "denim_shade": {
+        "dark": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "light": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "medium": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "coloured": {
+          "probability_cut": 51,
+          "condition": ""
+        }
+      },
+      "distress_or_torn": {
+        "slash knee": {
+          "probability_cut": 49,
+          "condition": ""
+        },
+        "clean look": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "high distress": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "mildly distressed": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      },
+      "jeans_fit":{
+        "slim fit":
+        {
+          "probability_cut":50,
+          "condition":""
+        },
+        "boyfriend fit":
+        {
+          "probability_cut":48,
+          "condition":""
+        },
+        "flared" :
+        {
+          "probability_cut":52,
+          "condition" : ""
+        },
+        "skinny fit":
+        {
+          "probability_cut":55,
+          "condition" : ""
+        },
+        "straight":
+        {
+          "probability_cut":50,
+          "condition" : ""
+        }
+      }
+    },
+    "women_tshirts": {
+      "neck": {
+        "v-neck": {
+          "probability_cut": 52,
+          "condition": ""
+        },
+        "high neck": {
+          "probability_cut": 75,
+          "condition": "round neck"
+        },
+        "round neck": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "shirt collar": {
+          "probability_cut": 60,
+          "condition": ""
+        },
+        "henley neck": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "mandarin collar": {
+          "probability_cut": 52,
+          "condition": ""
+        }
+      }
+    },
+    "women_shirts":{
+      "shirts_collar":{
+        "mandarin collar":{
+          "probability_cut":85,
+          "condition" : ""
+        },
+        "shirt collar":{
+          "probability_cut":50,
+          "condition":""
+        }
+      }
+    }, 
+    "women_sweatshirts":{
+      "hood":{
+        "hooded":{
+          "probability_cut":55,
+          "condition":""
+        },
+        "non hooded":{
+          "probability_cut":65,
+          "condition":""
+        }
+      },
+      "sweatshirts_type":{
+        "front open":{
+          "probability_cut":58,
+          "condition":""
+        },
+        "pull over":{
+          "probability_cut":58,
+          "condition":""
+        },
+        "cardigan":{
+          "probability_cut":50,
+          "condition":""
+        }
+      },
+      "closure":{
+        "no closure":{
+          "probability_cut":50,
+          "condition":""
+        },
+        "zip":{
+          "probability_cut":50,
+          "condition":""
+        },
+        "button closure":{
+          "probability_cut":50,
+          "condition":""
+        }
+      }
+    }
+  },
+  "zappos":
+  {
+    "women_dresses": {
+      "pattern": {
+        "solid": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "printed": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "checked": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "striped": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "embellishments": {
+          "probability_cut": 95,
+          "condition": "printed"
+        },
+        "embroidered": {
+          "probability_cut": 95,
+          "condition": "printed"
+        },
+        "colourblocked": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "self design": {
+          "probability_cut": 50,
+          "condition": ""
+        }
+      },
+      "pattern_type": {
+        "floral": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "animal print": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "zigzag/chevron": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "typographic": {
+          "probability_cut": 52,
+          "condition": ""
+        },
+        "polka dots": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "abstract": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "geometrical print": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "etnic motifs": {
+          "probability_cut": 46,
+          "condition": ""
+        },
+        "graphic print": {
+          "probability_cut": 44,
+          "condition": ""
+        },
+        "tribal": {
+          "probability_cut": 42,
+          "condition": ""
+        },
+        "tie and dye": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      },
+      "sleeve": {
+        "short sleeve": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "no sleeves": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "three-quarter sleeve": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "long sleeve": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      }
+    },
+    "women_jackets": {
+      "jacket_length": {
+        "regular": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "crop": {
+          "probability_cut": 55,
+          "condition": "regular"
+        },
+        "longline": {
+          "probability_cut": 50,
+          "condition": "regular"
+        }
+      }
+    },
+    "women_tops": {
+      "neck": {
+        "cold shoulder": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "off shoulder": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "one shoulder": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "round neck": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "v-neck": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "keyhole neck": {
+          "probability_cut": 70,
+          "condition": ""
+        },
+        "high neck": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "shoulder straps": {
+          "probability_cut": 60,
+          "condition": ""
+        },
+        "tie-up neck": {
+          "probability_cut": 70,
+          "condition": ""
+        },
+        "mandarin collar": {
+          "probability_cut": 65,
+          "condition": ""
+        },
+        "shirt collar": {
+          "probability_cut": 65,
+          "condition": ""
+        },
+        "strapless or tube": {
+          "probability_cut": 58,
+          "condition": ""
+        }
+      },
+      "tops_length": {
+        "crop": {
+          "probability_cut": 80,
+          "condition": "regular"
+        },
+        "regular": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "longline": {
+          "probability_cut": 76,
+          "condition": "regular"
+        }
+      },
+      "sleeve": {
+        "short sleeve": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "no sleeves": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "three-quarter sleeve": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "long sleeve": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      },
+      "pattern": {
+        "solid": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "printed": {
+          "probability_cut": 45,
+          "condition": ""
+        },
+        "checked": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "striped": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "embellishments": {
+          "probability_cut": 95,
+          "condition": "printed"
+        },
+        "embroidered": {
+          "probability_cut": 95,
+          "condition": "printed"
+        },
+        "colourblocked": {
+          "probability_cut": 95,
+          "condition": "solid"
+        },
+        "self design": {
+          "probability_cut": 50,
+          "condition": ""
+        }
+      },
+      "pattern_type": {
+        "floral": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "animal print": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "zigzag/chevron": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "typographic": {
+          "probability_cut": 52,
+          "condition": ""
+        },
+        "polka dots": {
+          "probability_cut": 57,
+          "condition": ""
+        },
+        "abstract": {
+          "probability_cut": 40,
+          "condition": ""
+        },
+        "geometrical print": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "etnic motifs": {
+          "probability_cut": 46,
+          "condition": ""
+        },
+        "graphic print": {
+          "probability_cut": 44,
+          "condition": ""
+        },
+        "tribal": {
+          "probability_cut": 42,
+          "condition": ""
+        },
+        "tie and dye": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      }
+    },
+    "women_jeans": {
+      "jeans_length": {
+        "regular": {
+          "probability_cut": 35,
+          "condition": ""
+        },
+        "cropped length": {
+          "probability_cut": 50,
+          "condition": "regular"
+        }
+      },
+      "denim_shade": {
+        "dark": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "light": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "medium": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "coloured": {
+          "probability_cut": 51,
+          "condition": ""
+        }
+      },
+      "distress_or_torn": {
+        "slash knee": {
+          "probability_cut": 49,
+          "condition": ""
+        },
+        "clean look": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "high distress": {
+          "probability_cut": 50,
+          "condition": ""
+        },
+        "mildly distressed": {
+          "probability_cut": 60,
+          "condition": ""
+        }
+      }
+    },
+    "women_tshirts": {
+      "neck": {
+        "v-neck": {
+          "probability_cut": 52,
+          "condition": ""
+        },
+        "high neck": {
+          "probability_cut": 75,
+          "condition": "round neck"
+        },
+        "round neck": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "shirt collar": {
+          "probability_cut": 60,
+          "condition": ""
+        },
+        "henley neck": {
+          "probability_cut": 55,
+          "condition": ""
+        },
+        "mandarin collar": {
+          "probability_cut": 52,
+          "condition": ""
+        }
+      }
+    }
+  }
+}
